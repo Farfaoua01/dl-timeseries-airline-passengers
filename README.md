@@ -7,6 +7,12 @@ Ce projet est une étude comparative des réseaux de neurones récurrents (RNN),
 - Analyser l'impact de la fenêtre de contexte (`lookback`) sur la précision.
 - Étudier l'effet de l'empilement de couches récurrentes (Deep RNNs).
 
+## ## 🛠️ Technologies utilisées
+- Python 3.x
+- TensorFlow / Keras
+- Pandas & Numpy
+- Scikit-learn (MinMaxScaler, Mean Squared Error)
+- Matplotlib
 
 ##Visualisation du jeu de données original 
 
